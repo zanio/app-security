@@ -1,0 +1,36 @@
+{
+    "name": "vereafymodule",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bbnplace/redberjs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bbnplace/redberjs/issues"
+    },
+    "homepage": "https://github.com/bbnplace/redberjs#readme",
+    "dependencies": {
+        "email-validator": "^2.0.4",
+        "formidable": "^1.2.1",
+        "fs": "0.0.1-security",
+        "hi-base32": "^0.5.0",
+        "https": "^1.0.0",
+        "mysql": "^2.16.0",
+        "nodemailer": "^5.1.1",
+        "qrcode": "^1.3.3",
+        "querystring": "^0.2.0",
+        "request": "^2.88.0",
+        "speakeasy": "^2.0.0",
+        "ws": "^7.0.0"
+    }
+}
